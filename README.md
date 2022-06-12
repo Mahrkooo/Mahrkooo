@@ -3,7 +3,7 @@
 Hello! My name is Marco. A Pleasure to meet you. :)
 
 - 🔭 I’m currently working on completing coding labs.
-- 🌱 I’m currently learning the logistical funcitons in javascript.
+- 🌱 I’m currently learning the logistical functions in javascript.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with efficency and code tidyness.
 - 💬 Ask me about anything.
